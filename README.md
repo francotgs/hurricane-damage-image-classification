@@ -4,7 +4,7 @@ En este repo utilizamos las imágenes satelitales extraidas del siguiente link: 
 
 Importamos el archivo a Google Colab, desde nuestro Google Drive, para poder trabajar sobre las imágenes utilizando un entorno de ejecución con GPU.
 
-En la notebook presentada podemos encontrar las distintas etapas:
+En la notebook presentada podemos encontrar lo siguiente:
   - Extracción de datos.
   - Observación de imágenes.
   - Confección de dataset y análisis de datos.
