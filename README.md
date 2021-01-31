@@ -1,1 +1,1 @@
-# hurricane_damage_image_classification
+# Deep Learning Based Damage Detection on Post-Hurricane Satellite Imagery
